@@ -1,3 +1,2 @@
-# VueJS-basics
-basics notes related to VueJS
-testing push
+# VueJS-Ionic
+Basic VueJS app with Ionic
