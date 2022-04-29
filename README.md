@@ -1,2 +1,2 @@
-# VueJS-Ionic
-Basic VueJS app with Ionic
+# VueJS-Vite
+Basic VueJS app with Vite
